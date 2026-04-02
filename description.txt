@@ -1,0 +1,1 @@
+Vesper: A high-performance, interactive generative art visualizer built with React, TypeScript, and HTML5 Canvas. Features physics-based particles and glassmorphic UI.
